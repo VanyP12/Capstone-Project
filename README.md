@@ -1,5 +1,5 @@
 # Capstone-Project
-Google Data Analytics Capstone Project. Cyclistic Bike Sharing Company
+Google Data Analytics Capstone Project. Cyclistic Bike Sharing Company Case
 
 ## Table of Contents
 * [General Info](#general-info)
